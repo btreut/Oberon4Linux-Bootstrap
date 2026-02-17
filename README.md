@@ -8,4 +8,4 @@ Since I am not a C-Guru I needed a lot help of ChatGPT, but with that help I was
 bootloader, so that it is compilable and runnable under a more or less current (Debian oldstable, i.e. 
 bookworm) 64bit Linux System.
 
-More stuff will follow real soon.
+More stuff resp. the files will follow real soon.
