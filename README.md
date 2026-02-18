@@ -7,3 +7,5 @@ does not compile under current versions of gcc.
 Since I am not a C-Guru I needed a lot help of ChatGPT, but with that help I was able to update the 
 bootloader, so that it is compilable and runnable under a more or less current (Debian oldstable, i.e. 
 bookworm) 64bit Linux System.
+
+For more details see Changes.md
