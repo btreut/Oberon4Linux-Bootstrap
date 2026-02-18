@@ -9,3 +9,5 @@ bootloader, so that it is compilable and runnable under a more or less current (
 bookworm) 64bit Linux System.
 
 For more details see Changes.md
+
+File oberon.xpm is unchanged, but necessary for compilation.
