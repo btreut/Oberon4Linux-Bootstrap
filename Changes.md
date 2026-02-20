@@ -1,6 +1,6 @@
 # Changes and Fixes --  Oberon Linux Bootloader Modernization (2026)
 
-This document summarizes all modifications and fixes that were necessary to successfully build and run the Oberon system on a modern 64-bit Linux distribution. The update was done with a lot of help by ChatGPT, since I am not really deep in C-programming and all changes here were also summarized by ChatGPT.
+This document summarizes all modifications and fixes that were necessary to successfully build and run the bootloader for Oberon system V4 on a modern 64-bit Linux distribution. The update was done with a lot of help by ChatGPT, since I am not really deep in C-programming and all changes here were also summarized by ChatGPT.
 
 ------------------------------------------------------------------------
 
@@ -193,3 +193,4 @@ Output confirmed correct heap initialization and successful startup.
 **Status:** Stable and functional.
 **Date:** 2026-Feb-19
 **Author:** Bernhard Treutwein with help from ChatGPT
+
