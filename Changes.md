@@ -73,7 +73,7 @@ The heap initialization and memory mapping were suspected. Debugging with:
 printf("heapAdr = %p, heapSize = %d\n", heapAdr, heapSize);
 ```
 
-confirmed that the crash occurred after heap setup.
+in line 217 confirmed that the crash occurred after heap setup.
 
 ### Root Cause
 
