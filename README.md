@@ -11,3 +11,5 @@ bookworm) 64bit Linux System.
 For more details and requirements see Changes.md
 
 File oberon.xpm is unchanged, but necessary for compilation.
+
+The included startup script `sob` still needs some polishing and manual adaptation.
